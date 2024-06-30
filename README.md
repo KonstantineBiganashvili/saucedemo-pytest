@@ -127,16 +127,6 @@ Contains the pytest fixture for setting up and tearing down the WebDriver instan
 
 Contains the test cases for the SauceDemo website.
 
-## Collaborations
-
-This project was developed in collaboration with:
-- Konstantine Biganashvili
-- Aleksandre Mikashavidze
-
-## Contributions
-
-Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
